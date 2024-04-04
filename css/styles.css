@@ -6,9 +6,19 @@
 }
 
 .contenedor {
-  border: 2px solid red;
+  border: 4px solid #000000;
   width: 20rem;
   margin-left: 2rem;
   margin-top: 2rem;
   padding: 0.5rem;
+  border-radius: 2px;
+}
+.contenedor .resultado {
+  border: 2px solid #000000;
+  margin-top: 1rem;
+  border-radius: 2px;
+  padding: 0.5rem;
+}
+.contenedor .resultado .sueldo {
+  color: #157c00;
 }/*# sourceMappingURL=styles.css.map */
